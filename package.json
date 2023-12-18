@@ -1,0 +1,12 @@
+{
+  "name": "ai-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nik Luparev",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.22.1"
+  }
+}
